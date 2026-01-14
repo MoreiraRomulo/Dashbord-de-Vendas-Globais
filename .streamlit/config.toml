@@ -1,0 +1,10 @@
+[theme]
+base = "dark"
+borderColor="#ffffff"
+chartCategoricalColors = ["#d5dae5","#83c9ff","#0068c9"]
+font = "sans-serif" # Pesquisar as fontes disponíveis
+baseRadius = "full"
+
+[theme.sidebar]
+primaryColor = "#83c9ff"
+baseRadius = "full"
