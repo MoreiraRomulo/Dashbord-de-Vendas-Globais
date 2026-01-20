@@ -20,6 +20,7 @@ Exemplo 4 | R$ 8
 Para atingir o resultado final desse tipo de análise, um <b>Dashbord</b>, é preciso percorrer todo um caminho que vai desde a <i>extração dos dados</i>, passando por <i>carregamento</i>, <i>tratamento</i>, <i>análise exploratória</i> e <i>visualização dos dados</i>. A <b>linguagem Python</b> permite executar todos esses processos em um único ambiente, aproveitando as suas inúmeras bibliotecas dedicadas a cada uma dessas etapas. Além disso, pensando na integridade dos dados, a manipulação de dados com Python admite a possibilidade de preservar a fonte de dados em sua forma original, prevenindo assim possíveis problemas.
 Por fim, caso haja a necessidade de uma análise mais complexa, como uma análise preditiva (o que não está no escopo desse projeto), a linguagem Python também comporta esse tipo de estudo, sendo fundamental nos casos de utilização de <i>Machine Learning</i>.
 </div>
+
 ---------------------------------------------------------------------
 ## Método:
 <div align="justify">
