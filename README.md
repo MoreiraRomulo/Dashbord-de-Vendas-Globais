@@ -20,3 +20,10 @@ Exemplo 4 | R$ 8
 Para atingir o resultado final desse tipo de análise, um <b>Dashbord</b>, é preciso percorrer todo um caminho que vai desde a <i>extração dos dados</i>, passando por <i>carregamento</i>, <i>tratamento</i>, <i>análise exploratória</i> e <i>visualização dos dados</i>. A <b>linguagem Python</b> permite executar todos esses processos em um único ambiente, aproveitando as suas inúmeras bibliotecas dedicadas a cada uma dessas etapas. Além disso, pensando na integridade dos dados, a manipulação de dados com Python admite a possibilidade de preservar a fonte de dados em sua forma original, prevenindo assim possíveis problemas.
 Por fim, caso haja a necessidade de uma análise mais complexa, como uma análise preditiva (o que não está no escopo desse projeto), a linguagem Python também comporta esse tipo de estudo, sendo fundamental nos casos de utilização de <i>Machine Learning</i>.
 </div>
+---------------------------------------------------------------------
+## Método:
+<div align="justify">
+Em Ciência de Dados, um dos processos mais importantes diz respeito a <i>modelagem de dados</i>. Tal procedimento diz respeito a criação de uma estrutura lógica que represente a forma como os dados serão armazenados, relacionados e usados (<i>Data Science Academy</i>). E uma dessas formas de representação é chamada de <b>Modelagem Dimensional</b>, que se notabiliza por classificar os dados de acordo com os <i>“fatos”</i> e as suas <i>“dimensões”</i>. A(s) tabela(s) “fato” representa(m) as medidas quantitativas, como o número de vendas, enquanto a(s) tabela(s) “dimensão” apresentam o contexto dessas medidas, como a data, local, produto, entre outros.
+Embora essa metodologia seja mais comumente utilizada quando a fonte de dados é um conjunto de tabelas, é possível utilizá-la em uma tabela simples. Identifica-se as colunas correspondentes aos fatos e as suas respectivas dimensões, e a partir daí a agregação dos dados é facilitada, além da posterior construção do Dashbord.
+</div>
+
