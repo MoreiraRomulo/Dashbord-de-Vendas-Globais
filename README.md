@@ -38,6 +38,7 @@ Embora essa metodologia seja mais comumente utilizada quando a fonte de dados é
 <div align="justify">
 Nesta análise, foram considerados dados de <b>51.280</b> pedidos com informações como <b>valor total da venda</b>,<b>data do pedido</b>,<b>segmento</b>,<b>país</b>(e sua respectiva região),<b>categoria</b>,<b>subcategoria</b> e <b>prioridade</b>.
 A coluna 'segmento' diz respeito a divisão dos tipos de clientes, que são <i>'Home Office'</i>,<i>'Corporativo'</i>, e <i>'Consumidor'</i>. Por sua vez, 'categoria' se refere aos tipos de produtos vendidos pela empresa, que estão catalogados como <i>'Suprimentos'</i>,<i>'Moveis'</i> e <i>'Tecnologia'</i>. Finalmente, 'subcategoria' faz a divisão por produtos em si.
+
 Em relação aos <b>países</b>, os dados demonstram que o mercado consumidor da empresa é bastante vasto, com presença em todos os continentes, exceção feita à Antártida. <b>No total são 147 países</b> distribuídos em cinco continentes, o que representa <b>71%</b> de todos os países disponíveis.
 </div>
 <img src="https://github.com/MoreiraRomulo/Dashbord-de-Vendas-Globais/blob/main/newplot.png" alt="Mercado consumidor">
