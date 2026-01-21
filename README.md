@@ -45,3 +45,10 @@ Em relação aos <b>países</b>, os dados demonstram que o mercado consumidor da
 ### Países consumidores
 <img src="https://github.com/MoreiraRomulo/Dashbord-de-Vendas-Globais/blob/main/mapa.png" alt="Mercado Consumidor">
 
+### Evolução do faturamento anual:
+ ANO  | FATURAMENTO TOTAL | % S/ANO ANTERIOR
+----- | ----------------- | ----------------
+2011  | $ 2.259.155       | 0%
+2012  | $ 2.676.442       | 18,47%
+2013  | $ 3.405.618       | 27,24%
+2014  | $ 4.299.810       | 26,25%
