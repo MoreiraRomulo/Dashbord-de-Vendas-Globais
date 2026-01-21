@@ -53,6 +53,7 @@ Em relação aos <b>países</b>, os dados demonstram que o mercado consumidor da
 2013  | $ 3.405.618       | 27,24%
 2014  | $ 4.299.810       | 26,25%
 
+<div align="justify">
 A partir da análise da tabela acima nota-se sucessivas taxas de crescimento no faturamento total, porém cabe a pergunta: o crescimento foi satisfatório? Para responder essa questão é necessário fazer o cruzamento com outras informações, tais como custo, investimento, taxa de inflação etc. O que é possível depreender quando se analisa o faturamento geral, juntamente com o faturamento decomposto por Segmento (<b>Gráfico 1 do Dashbord</b>), é a prevalência de <i>'Consumidor'</i> em relação aos demais. Durante todo o período analisado tal segmento foi responsável por <b>cerca de 50% das vendas</b>, enquanto <i>'Home Office'</i> ficou sempre <b>abaixo dos 20%</b>.
 
 Por outro lado, as vendas por <b>'Categoria'</b>(Gráfico 2) se mostraram mais equilibradas. O setor de <i>'Tecnologia'</i> teve a maior participação nas vendas, <b>variando entre 36 e 38%</b>, enquanto <i>'Suprimentos'</i> se manteve na casa dos <b>30%</b> e <i>'Móveis'</i> entre <b>32 e 33%</b>. Apesar de uma distribuição mais equilibrada, um aspecto a se destacar é a quantidade de produtos por categoria. Enquanto 'Suprimentos' possui nove produtos, 'Móveis' e 'Tecnologia' possuem quatro(Gráfico 3). <b>Ou seja, a subcategoria com mais produtos é a que menos gerou retorno</b>.
@@ -60,7 +61,14 @@ Por outro lado, as vendas por <b>'Categoria'</b>(Gráfico 2) se mostraram mais e
 Outra forma de visualizar a distribuição das vendas é a divisão por <b>países</b>. Nesse caso é possível identificar uma <b>nítida concentração</b>, com a prevalência de poucos países em relação ao total. Apesar do alto número de países consumidores (147), <b>vinte deles (Gráfico 4) concentram mais de 76% das vendas</b>. E a medida que o recorte fica menor, a concentração se mantém: <b>os dez maiores países consumidores correspondem a 62,6% das vendas de todo o período</b>. Os <b>cinco maiores</b> consumidores são responsáveis por <b>42,8%</b> das vendas e os <b>três maiores</b> por <b>32,8%</b>. E por fim, <b>o maior mercado consumidor (Estados Unidos) corresponde a 18% das vendas</b>.
 
 Ainda sobre as vendas por países, a porção que menos vende é muito extensa, comportando mais de <b>72% das nações</b>. Em outras palavras, <b>107 dos 147 países são responsáveis por apenas 10,2% das vendas</b>, com um grupo <b>intermediário de 20 países concentrando cerca de 13% das vendas</b>.
+</div>
 
+---------------------------------------------------------------------
+## Conclusões:
+<div align="justify">
+Em resumo, pensando em uma análise panorâmica, <b>pode-se perceber uma tendência de crescimento das vendas</b> (embora uma diminuição da taxa de crescimento no último ano), seja pela ótica das categorias que compõem 'Segmento' ou pela ótica 'Categoria'. Porém, devido a concentração vista em relação a 'Segmento', possíveis estratégias de venda devem considerar essa característica dos clientes. Por outro lado, a análise conjunta de vendas por 'Categoria' e 'Subcategoria' indica que há uma clara hierarquização dos produtos. Os mais vendidos pertencem a uma categoria específica (Tecnologia) independente do período e país analisado. Da mesma forma, os produtos menos vendidos também pertencem a uma categoria em particular (Suprimentos). Por tais características isoladas não é possível decretar o custo-benefício de cada categoria, para isso seria necessário cruzar os dados relacionados aos custos. Porém, pela categoria
+
+</div>
 
 
 
