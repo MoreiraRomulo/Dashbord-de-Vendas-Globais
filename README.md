@@ -41,6 +41,7 @@ A coluna 'segmento' diz respeito a divisão dos tipos de clientes, que são <i>'
 
 Em relação aos <b>países</b>, os dados demonstram que o mercado consumidor da empresa é bastante vasto, com presença em todos os continentes, exceção feita à Antártida. <b>No total são 147 países</b> distribuídos em cinco continentes, o que representa <b>71%</b> de todos os países disponíveis.
 </div>
+
 ### Países consumidores
 <img src="https://github.com/MoreiraRomulo/Dashbord-de-Vendas-Globais/blob/main/newplot.png" alt="Mercado consumidor">
 
