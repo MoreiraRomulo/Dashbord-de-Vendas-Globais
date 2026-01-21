@@ -43,5 +43,5 @@ Em relação aos <b>países</b>, os dados demonstram que o mercado consumidor da
 </div>
 
 ### Países consumidores
-
+<img src="https://github.com/MoreiraRomulo/Dashbord-de-Vendas-Globais/blob/main/mapa.png" alt="Mercado Consumidor">
 
