@@ -6,13 +6,6 @@ Na área de <i>Gestão Comercial</i> há vários tipos de estratégias e prátic
 Dentro dessa ideia, a presente análise pretende estabelecer o panorama de uma empresa fictícia, através de <i>dados sintéticos</i>,  focando-se nas seguintes questões: <b>qual foi o montante total vendido durante o período</b>, <b>quais produtos mais/menos vendidos</b>, <b>o tamanho do mercado consumidor</b> e <b>o perfil de consumo</b>.
 </div>
  
- ---------------------------------------------------------------------
- Exemplo  | Valor do exemplo
---------- | ------
-Exemplo 1 | R$ 10
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
 
  ---------------------------------------------------------------------
 ## Por que utilizar Python?
@@ -33,6 +26,10 @@ Embora essa metodologia seja mais comumente utilizada quando a fonte de dados é
     • Pandas;
     • Streamlit;
     • Plotly
+---------------------------------------------------------------------
+## Link de acesso para o Dashbord:
+[Clique aqui] para acessar o Dashbord (dashbord-de-vendas-globais-7eq3unpeez3ydihugtirsk.streamlit.app)
+
 ---------------------------------------------------------------------
 ## Análise dos dados:
 <div align="justify">
