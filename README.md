@@ -28,7 +28,7 @@ Embora essa metodologia seja mais comumente utilizada quando a fonte de dados é
     • Plotly
 ---------------------------------------------------------------------
 ## Link de acesso para o Dashbord:
-[Clique aqui] para acessar o Dashbord (dashbord-de-vendas-globais-7eq3unpeez3ydihugtirsk.streamlit.app)
+[Clique aqui] para acessar o Dashbord (https://dashbord-de-vendas-globais-7eq3unpeez3ydihugtirsk.streamlit.app)
 
 ---------------------------------------------------------------------
 ## Análise dos dados:
